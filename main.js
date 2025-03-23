@@ -1,4 +1,4 @@
-const webAppUrl = 'https://script.google.com/macros/s/AKfycbztyIXYt8G4o4QENg6Wo-yJPAXZdXYYZqCZ_VquS4sxF36f_1k2woruOWO9TDJ2B87eCg/exec'; // Replace with your Web App URL
+const webAppUrl = 'https://script.google.com/macros/s/AKfycbxBwfPjThFNAws4jfM2Puidm66k7blOKnLmO36FspHhNQ8R9iLcWYvjWcaccpHxSy5Jkg/exec'; // Replace with your Web App URL
 
 const loginForm = document.getElementById('login-form');
 const chatForm = document.getElementById('chat-form');
